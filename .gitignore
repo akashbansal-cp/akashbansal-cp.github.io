@@ -1,3 +1,2 @@
 /my-app/node_modules
-/my-app/public
-/my-app/src
+.gitignore
