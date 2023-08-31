@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://akashbansal-cp.github.io/akashbansal-cp.github.io",
+  "homepage": "https://akashbansal-cp.github.io/akashbansal-cp.github.io/my-app/build",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",

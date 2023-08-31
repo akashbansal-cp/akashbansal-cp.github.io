@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/akashbansal-cp.github.io/static/js/main.b72c6719.js",
-    "index.html": "/akashbansal-cp.github.io/index.html",
-    "main.b72c6719.js.map": "/akashbansal-cp.github.io/static/js/main.b72c6719.js.map"
+    "main.js": "/akashbansal-cp.github.io/my-app/build/static/js/main.b72c6719.js",
+    "index.html": "/akashbansal-cp.github.io/my-app/build/index.html",
+    "main.b72c6719.js.map": "/akashbansal-cp.github.io/my-app/build/static/js/main.b72c6719.js.map"
   },
   "entrypoints": [
     "static/js/main.b72c6719.js"
