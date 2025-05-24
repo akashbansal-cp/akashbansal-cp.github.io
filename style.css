@@ -6,7 +6,7 @@
     font-size: 30px
 }
 
-.read-blog-item{
+.recommends-blog-item{
     font-size: 30px
 }
 
@@ -26,7 +26,7 @@
     overflow-y: scroll;
 }
 
-#read{
+#recommends{
     height: 250px;
     border: 1px solid black;
     display: flex;
@@ -34,7 +34,7 @@
     margin: 15px;
 }
 
-#read-list{
+#recommends-list{
     overflow-y: scroll;
 }
 
