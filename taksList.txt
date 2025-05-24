@@ -1,0 +1,11 @@
+1. List all the blogs (written / read and liked)
+2. list all the projects
+3. data to be fetched from git repo only
+4. 
+
+
+
+
+
+not using react 
+using simple html and js

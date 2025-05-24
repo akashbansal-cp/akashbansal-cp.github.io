@@ -1,0 +1,39 @@
+.navbar-items{
+    margin: 20px;
+}
+
+.written-blog-item{
+    font-size: 30px
+}
+
+.read-blog-item{
+    font-size: 30px
+}
+
+.notes-image{
+    height: 250px;
+}
+
+#written{
+    height: 250px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+}
+
+#written-list{
+    overflow-y: scroll;
+}
+
+#read{
+    height: 250px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: 15px;
+}
+
+#read-list{
+    overflow-y: scroll;
+}
