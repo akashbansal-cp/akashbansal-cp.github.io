@@ -37,3 +37,17 @@
 #read-list{
     overflow-y: scroll;
 }
+
+.project-holder{
+    display: flex;
+    flex-direction: column;
+    height: 250px;
+    width: 400px;
+    border: 1px solid black;
+    margin: 15px;
+    padding: 5px;
+}
+
+.auto-margin{
+    margin: auto;
+}
