@@ -1,2 +1,2 @@
 A basic site about me.
-click here: [text](https://akashbansal-cp.github.io/)
+click here: https://akashbansal-cp.github.io/
